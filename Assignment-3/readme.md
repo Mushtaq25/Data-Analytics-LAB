@@ -1,7 +1,7 @@
 <h1>Assignment - 3</h1></br>
 
 Write R programs for the following experiments:</br>
-1. Consider the following grouped data:</br>
+1.Consider the following grouped data:</br>
 
 Table 1: Grouped data of marks obtained by students of a class:</br>
 
